@@ -1,0 +1,16 @@
+.env
+.env.*
+*.pem
+runs/
+data/
+*.sqlite
+*.sqlite-*
+*.log
+*.out
+__pycache__/
+*.pyc
+.venv/
+contracts/lib/
+contracts/out/
+contracts/cache/
+contracts/broadcast/
